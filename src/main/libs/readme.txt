@@ -1,0 +1,1 @@
+这里需要放置newRelic打包后的jar包，以及java sdk中的tools.jar包

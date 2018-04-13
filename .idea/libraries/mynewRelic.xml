@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mynewRelic">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../newrelic_plugin/src/main/libs/mynewRelic.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

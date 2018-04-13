@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../newrelic_plugin/.idea/modules/newrelic_plugin.iml" filepath="$PROJECT_DIR$/../newrelic_plugin/.idea/modules/newrelic_plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../newrelic_plugin/.idea/modules/newrelic_plugin_main.iml" filepath="$PROJECT_DIR$/../newrelic_plugin/.idea/modules/newrelic_plugin_main.iml" group="newrelic_plugin" />
+      <module fileurl="file://$PROJECT_DIR$/../newrelic_plugin/.idea/modules/newrelic_plugin_test.iml" filepath="$PROJECT_DIR$/../newrelic_plugin/.idea/modules/newrelic_plugin_test.iml" group="newrelic_plugin" />
+    </modules>
+  </component>
+</project>
